@@ -1,0 +1,4 @@
+Yield Strength,414,690,MPa
+Average Shear Strength,100,200,MPa
+Elastic Modulus,200,200,GPa
+Load Capacity,500,2000,kN

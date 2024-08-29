@@ -1,0 +1,11 @@
+User Inputs for Wind Loading Calculations:
+Height: 800.00 meters
+Width: 400.00 meters
+Length: 100.00 meters
+Wind Velocity: 5.83 m/s
+Air Density: 0.97 kg/m^3
+Safety Factor: 2.00
+Yield Strength: 450.00 MPa
+Average Shear Strength: 150.00 MPa
+Elastic Modulus: 200.00 GPa
+Load Capacity: 750.00 N

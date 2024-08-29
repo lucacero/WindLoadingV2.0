@@ -1,0 +1,6 @@
+Height,0,828,meters
+Width,0,500,meters
+Length,0,500,meters
+Air Density,0.859,1,atm
+Wind Velocity,0,407.163,kmh
+Safety Factor,1.5,4,SF
