@@ -1,8 +1,3 @@
-// Luca Cero
-// CSE 122
-// TAs: Connor Sun & Abigail Williams 
-// 8/15/24
-
 import java.io.*;
 import java.util.*;
 
